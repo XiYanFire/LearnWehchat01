@@ -7,3 +7,6 @@
 
  <view>TeacherNum:{{num}}</view>
  <button bindtap="HandLeBtnClick" >+1</button>
+
+ <view>知识点1 测试tag</view>
+ <button > 测试tag+1</button>
