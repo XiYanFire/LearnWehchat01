@@ -1,0 +1,9 @@
+<!--pages/main/MainPage.wxml-->
+ <!-- afa-->
+ <!-- afa-->
+ <view>myName:{{HeroName}}</view>
+
+ <view wx:for="{{Teams}}">{{item.Nam1e}}和{{item.point}}</view>
+
+ <view>TeacherNum:{{num}}</view>
+ <button bindtap="HandLeBtnClick" >+1</button>

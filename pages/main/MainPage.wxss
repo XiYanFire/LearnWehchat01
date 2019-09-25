@@ -1,0 +1,3 @@
+/* pages/main/MainPage.wxss */
+.moror {color: red;
+        font-size: 30px}

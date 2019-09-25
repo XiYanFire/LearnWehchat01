@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "pages/main/MainPage",
+    "pages/help/HelpPage"
+  ],
+  "sitemapLocation": "sitemap64.json"
+}
